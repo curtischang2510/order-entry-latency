@@ -1,0 +1,100 @@
+2026-10-14 11:06:13,768 INFO Order result at tick 0: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656865121}}]}}}
+2026-10-14 11:06:14,535 INFO Order result at tick 2: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656865778}}]}}}
+2026-10-14 11:06:15,397 INFO Order result at tick 4: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656866149}}]}}}
+2026-10-14 11:06:16,164 INFO Order result at tick 6: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656866601}}]}}}
+2026-10-14 11:06:16,932 INFO Order result at tick 8: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656867016}}]}}}
+2026-10-14 11:06:17,701 INFO Order result at tick 10: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656868094}}]}}}
+2026-10-14 11:06:18,469 INFO Order result at tick 12: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656870608}}]}}}
+2026-10-14 11:06:19,238 INFO Order result at tick 14: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656871378}}]}}}
+2026-10-14 11:06:20,059 INFO Order result at tick 16: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656871889}}]}}}
+2026-10-14 11:06:20,878 INFO Order result at tick 18: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656872253}}]}}}
+2026-10-14 11:06:21,595 INFO Order result at tick 20: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656873069}}]}}}
+2026-10-14 11:06:22,467 INFO Order result at tick 22: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656873784}}]}}}
+2026-10-14 11:06:23,234 INFO Order result at tick 24: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656875769}}]}}}
+2026-10-14 11:06:24,000 INFO Order result at tick 26: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656877647}}]}}}
+2026-10-14 11:06:24,838 INFO Order result at tick 28: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656878061}}]}}}
+2026-10-14 11:06:25,597 INFO Order result at tick 30: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656878618}}]}}}
+2026-10-14 11:06:26,375 INFO Order result at tick 32: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656878972}}]}}}
+2026-10-14 11:06:27,189 INFO Order result at tick 34: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656879301}}]}}}
+2026-10-14 11:06:28,005 INFO Order result at tick 36: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656880042}}]}}}
+2026-10-14 11:06:28,796 INFO Order result at tick 38: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656882193}}]}}}
+2026-10-14 11:06:29,570 INFO Order result at tick 40: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656882805}}]}}}
+2026-10-14 11:06:30,362 INFO Order result at tick 42: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656883468}}]}}}
+2026-10-14 11:06:31,232 INFO Order result at tick 44: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656884047}}]}}}
+2026-10-14 11:06:32,048 INFO Order result at tick 46: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656884469}}]}}}
+2026-10-14 11:06:32,816 INFO Order result at tick 48: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656884983}}]}}}
+2026-10-14 11:06:33,646 INFO Order result at tick 50: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656886587}}]}}}
+2026-10-14 11:06:34,450 INFO Order result at tick 52: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656887997}}]}}}
+2026-10-14 11:06:35,271 INFO Order result at tick 54: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656888583}}]}}}
+2026-10-14 11:06:36,047 INFO Order result at tick 56: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656889192}}]}}}
+2026-10-14 11:06:36,927 INFO Order result at tick 58: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656889561}}]}}}
+2026-10-14 11:06:37,691 INFO Order result at tick 60: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656889946}}]}}}
+2026-10-14 11:06:38,513 INFO Order result at tick 62: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656891247}}]}}}
+2026-10-14 11:06:39,368 INFO Order result at tick 64: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656892928}}]}}}
+2026-10-14 11:06:40,251 INFO Order result at tick 66: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656893254}}]}}}
+2026-10-14 11:06:41,017 INFO Order result at tick 68: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656893673}}]}}}
+2026-10-14 11:06:41,783 INFO Order result at tick 70: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656893969}}]}}}
+2026-10-14 11:06:42,617 INFO Order result at tick 72: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656894320}}]}}}
+2026-10-14 11:06:43,470 INFO Order result at tick 74: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656895466}}]}}}
+2026-10-14 11:06:44,246 INFO Order result at tick 76: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656896909}}]}}}
+2026-10-14 11:06:45,068 INFO Order result at tick 78: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656897521}}]}}}
+2026-10-14 11:06:45,906 INFO Order result at tick 80: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656899484}}]}}}
+2026-10-14 11:06:46,739 INFO Order result at tick 82: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656900155}}]}}}
+2026-10-14 11:06:47,532 INFO Order result at tick 84: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656901266}}]}}}
+2026-10-14 11:06:48,372 INFO Order result at tick 86: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656902819}}]}}}
+2026-10-14 11:06:49,156 INFO Order result at tick 88: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656904485}}]}}}
+2026-10-14 11:06:49,930 INFO Order result at tick 90: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656905139}}]}}}
+2026-10-14 11:06:50,749 INFO Order result at tick 92: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656905601}}]}}}
+2026-10-14 11:06:51,516 INFO Order result at tick 94: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656905968}}]}}}
+2026-10-14 11:06:52,340 INFO Order result at tick 96: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656906317}}]}}}
+2026-10-14 11:06:53,152 INFO Order result at tick 98: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656906769}}]}}}
+2026-10-14 16:23:13,329 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675641266}}]}}}
+2026-10-14 16:23:13,329 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675641267}}]}}}
+2026-10-14 16:23:13,420 INFO Order result for ETH: {'status': 'err', 'response': 'Invalid nonce: duplicate nonce 1791966193330'}
+2026-10-14 16:23:14,150 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675642419}}]}}}
+2026-10-14 16:23:14,194 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675642420}}]}}}
+2026-10-14 16:23:15,020 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675643261}}]}}}
+2026-10-14 16:23:15,020 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675643263}}]}}}
+2026-10-14 16:23:15,843 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675643501}}]}}}
+2026-10-14 16:23:15,852 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675643500}}]}}}
+2026-10-14 16:23:16,657 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675645013}}]}}}
+2026-10-14 16:23:16,659 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675645012}}]}}}
+2026-10-14 16:23:17,430 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675645860}}]}}}
+2026-10-14 16:23:17,480 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675645955}}]}}}
+2026-10-14 16:23:18,203 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675646415}}]}}}
+2026-10-14 16:23:18,248 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675646463}}]}}}
+2026-10-14 16:23:18,913 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675647386}}]}}}
+2026-10-14 16:23:19,015 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675647480}}]}}}
+2026-10-14 16:23:19,682 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675648272}}]}}}
+2026-10-14 16:23:19,783 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675648329}}]}}}
+2026-10-14 16:23:20,458 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675649280}}]}}}
+2026-10-14 16:23:20,560 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675649371}}]}}}
+2026-10-14 16:23:21,225 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675649812}}]}}}
+2026-10-14 16:23:21,329 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675650349}}]}}}
+2026-10-14 16:23:21,991 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675651288}}]}}}
+2026-10-14 16:23:22,094 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675651324}}]}}}
+2026-10-14 16:23:22,762 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675651731}}]}}}
+2026-10-14 16:23:22,870 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675652031}}]}}}
+2026-10-14 16:23:23,580 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675652503}}]}}}
+2026-10-14 16:23:23,682 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675652545}}]}}}
+2026-10-14 16:23:24,357 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675653693}}]}}}
+2026-10-14 16:23:24,454 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675653834}}]}}}
+2026-10-14 16:23:25,119 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675654289}}]}}}
+2026-10-14 16:23:25,218 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675654344}}]}}}
+2026-10-14 16:23:25,886 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675654583}}]}}}
+2026-10-14 16:23:26,036 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675654608}}]}}}
+2026-10-14 16:23:26,652 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675655312}}]}}}
+2026-10-14 16:23:26,757 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675655337}}]}}}
+2026-10-14 16:23:27,419 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675656110}}]}}}
+2026-10-14 16:23:27,523 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675656198}}]}}}
+2026-10-14 16:23:28,233 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675656812}}]}}}
+2026-10-14 16:23:28,344 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675656835}}]}}}
+2026-10-14 16:23:29,007 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675657711}}]}}}
+2026-10-14 16:23:29,101 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675657779}}]}}}
+2026-10-14 16:23:29,768 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675658638}}]}}}
+2026-10-14 16:23:29,870 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675658701}}]}}}
+2026-10-14 16:23:30,580 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675659071}}]}}}
+2026-10-14 16:23:30,686 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675659130}}]}}}
+2026-10-14 16:23:31,343 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675659392}}]}}}
+2026-10-14 16:23:31,576 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675659844}}]}}}
+2026-10-14 16:23:32,121 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675660626}}]}}}
