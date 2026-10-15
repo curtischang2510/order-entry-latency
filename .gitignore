@@ -11,3 +11,4 @@ wheels/
 .venv
 config.yaml
 baseline/orders.log
+stub/orders.log

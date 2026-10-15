@@ -1,100 +1,608 @@
-2026-10-14 11:06:13,768 INFO Order result at tick 0: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656865121}}]}}}
-2026-10-14 11:06:14,535 INFO Order result at tick 2: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656865778}}]}}}
-2026-10-14 11:06:15,397 INFO Order result at tick 4: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656866149}}]}}}
-2026-10-14 11:06:16,164 INFO Order result at tick 6: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656866601}}]}}}
-2026-10-14 11:06:16,932 INFO Order result at tick 8: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656867016}}]}}}
-2026-10-14 11:06:17,701 INFO Order result at tick 10: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656868094}}]}}}
-2026-10-14 11:06:18,469 INFO Order result at tick 12: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656870608}}]}}}
-2026-10-14 11:06:19,238 INFO Order result at tick 14: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656871378}}]}}}
-2026-10-14 11:06:20,059 INFO Order result at tick 16: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656871889}}]}}}
-2026-10-14 11:06:20,878 INFO Order result at tick 18: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656872253}}]}}}
-2026-10-14 11:06:21,595 INFO Order result at tick 20: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656873069}}]}}}
-2026-10-14 11:06:22,467 INFO Order result at tick 22: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656873784}}]}}}
-2026-10-14 11:06:23,234 INFO Order result at tick 24: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656875769}}]}}}
-2026-10-14 11:06:24,000 INFO Order result at tick 26: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656877647}}]}}}
-2026-10-14 11:06:24,838 INFO Order result at tick 28: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656878061}}]}}}
-2026-10-14 11:06:25,597 INFO Order result at tick 30: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656878618}}]}}}
-2026-10-14 11:06:26,375 INFO Order result at tick 32: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656878972}}]}}}
-2026-10-14 11:06:27,189 INFO Order result at tick 34: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656879301}}]}}}
-2026-10-14 11:06:28,005 INFO Order result at tick 36: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656880042}}]}}}
-2026-10-14 11:06:28,796 INFO Order result at tick 38: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656882193}}]}}}
-2026-10-14 11:06:29,570 INFO Order result at tick 40: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656882805}}]}}}
-2026-10-14 11:06:30,362 INFO Order result at tick 42: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656883468}}]}}}
-2026-10-14 11:06:31,232 INFO Order result at tick 44: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656884047}}]}}}
-2026-10-14 11:06:32,048 INFO Order result at tick 46: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656884469}}]}}}
-2026-10-14 11:06:32,816 INFO Order result at tick 48: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656884983}}]}}}
-2026-10-14 11:06:33,646 INFO Order result at tick 50: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656886587}}]}}}
-2026-10-14 11:06:34,450 INFO Order result at tick 52: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656887997}}]}}}
-2026-10-14 11:06:35,271 INFO Order result at tick 54: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656888583}}]}}}
-2026-10-14 11:06:36,047 INFO Order result at tick 56: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656889192}}]}}}
-2026-10-14 11:06:36,927 INFO Order result at tick 58: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656889561}}]}}}
-2026-10-14 11:06:37,691 INFO Order result at tick 60: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656889946}}]}}}
-2026-10-14 11:06:38,513 INFO Order result at tick 62: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656891247}}]}}}
-2026-10-14 11:06:39,368 INFO Order result at tick 64: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656892928}}]}}}
-2026-10-14 11:06:40,251 INFO Order result at tick 66: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656893254}}]}}}
-2026-10-14 11:06:41,017 INFO Order result at tick 68: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656893673}}]}}}
-2026-10-14 11:06:41,783 INFO Order result at tick 70: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656893969}}]}}}
-2026-10-14 11:06:42,617 INFO Order result at tick 72: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656894320}}]}}}
-2026-10-14 11:06:43,470 INFO Order result at tick 74: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656895466}}]}}}
-2026-10-14 11:06:44,246 INFO Order result at tick 76: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656896909}}]}}}
-2026-10-14 11:06:45,068 INFO Order result at tick 78: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656897521}}]}}}
-2026-10-14 11:06:45,906 INFO Order result at tick 80: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656899484}}]}}}
-2026-10-14 11:06:46,739 INFO Order result at tick 82: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656900155}}]}}}
-2026-10-14 11:06:47,532 INFO Order result at tick 84: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656901266}}]}}}
-2026-10-14 11:06:48,372 INFO Order result at tick 86: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656902819}}]}}}
-2026-10-14 11:06:49,156 INFO Order result at tick 88: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656904485}}]}}}
-2026-10-14 11:06:49,930 INFO Order result at tick 90: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656905139}}]}}}
-2026-10-14 11:06:50,749 INFO Order result at tick 92: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656905601}}]}}}
-2026-10-14 11:06:51,516 INFO Order result at tick 94: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656905968}}]}}}
-2026-10-14 11:06:52,340 INFO Order result at tick 96: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656906317}}]}}}
-2026-10-14 11:06:53,152 INFO Order result at tick 98: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62656906769}}]}}}
-2026-10-14 16:23:13,329 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675641266}}]}}}
-2026-10-14 16:23:13,329 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675641267}}]}}}
-2026-10-14 16:23:13,420 INFO Order result for ETH: {'status': 'err', 'response': 'Invalid nonce: duplicate nonce 1791966193330'}
-2026-10-14 16:23:14,150 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675642419}}]}}}
-2026-10-14 16:23:14,194 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675642420}}]}}}
-2026-10-14 16:23:15,020 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675643261}}]}}}
-2026-10-14 16:23:15,020 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675643263}}]}}}
-2026-10-14 16:23:15,843 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675643501}}]}}}
-2026-10-14 16:23:15,852 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675643500}}]}}}
-2026-10-14 16:23:16,657 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675645013}}]}}}
-2026-10-14 16:23:16,659 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675645012}}]}}}
-2026-10-14 16:23:17,430 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675645860}}]}}}
-2026-10-14 16:23:17,480 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675645955}}]}}}
-2026-10-14 16:23:18,203 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675646415}}]}}}
-2026-10-14 16:23:18,248 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675646463}}]}}}
-2026-10-14 16:23:18,913 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675647386}}]}}}
-2026-10-14 16:23:19,015 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675647480}}]}}}
-2026-10-14 16:23:19,682 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675648272}}]}}}
-2026-10-14 16:23:19,783 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675648329}}]}}}
-2026-10-14 16:23:20,458 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675649280}}]}}}
-2026-10-14 16:23:20,560 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675649371}}]}}}
-2026-10-14 16:23:21,225 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675649812}}]}}}
-2026-10-14 16:23:21,329 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675650349}}]}}}
-2026-10-14 16:23:21,991 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675651288}}]}}}
-2026-10-14 16:23:22,094 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675651324}}]}}}
-2026-10-14 16:23:22,762 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675651731}}]}}}
-2026-10-14 16:23:22,870 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675652031}}]}}}
-2026-10-14 16:23:23,580 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675652503}}]}}}
-2026-10-14 16:23:23,682 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675652545}}]}}}
-2026-10-14 16:23:24,357 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675653693}}]}}}
-2026-10-14 16:23:24,454 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675653834}}]}}}
-2026-10-14 16:23:25,119 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675654289}}]}}}
-2026-10-14 16:23:25,218 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675654344}}]}}}
-2026-10-14 16:23:25,886 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675654583}}]}}}
-2026-10-14 16:23:26,036 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675654608}}]}}}
-2026-10-14 16:23:26,652 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675655312}}]}}}
-2026-10-14 16:23:26,757 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675655337}}]}}}
-2026-10-14 16:23:27,419 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675656110}}]}}}
-2026-10-14 16:23:27,523 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675656198}}]}}}
-2026-10-14 16:23:28,233 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675656812}}]}}}
-2026-10-14 16:23:28,344 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675656835}}]}}}
-2026-10-14 16:23:29,007 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675657711}}]}}}
-2026-10-14 16:23:29,101 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675657779}}]}}}
-2026-10-14 16:23:29,768 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675658638}}]}}}
-2026-10-14 16:23:29,870 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675658701}}]}}}
-2026-10-14 16:23:30,580 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675659071}}]}}}
-2026-10-14 16:23:30,686 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675659130}}]}}}
-2026-10-14 16:23:31,343 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675659392}}]}}}
-2026-10-14 16:23:31,576 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675659844}}]}}}
-2026-10-14 16:23:32,121 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62675660626}}]}}}
+2026-10-15 21:48:16,240 INFO Time elapsed for API.post: 127.413 ms
+2026-10-15 21:48:16,397 INFO Time elapsed for API.post: 156.983 ms
+2026-10-15 21:48:17,229 INFO Time elapsed for API.post: 820.321 ms
+2026-10-15 21:48:17,230 INFO Time elapsed for Exchange.order: 830.324 ms
+2026-10-15 21:48:17,230 INFO Time elapsed for API.post: 818.434 ms
+2026-10-15 21:48:17,230 INFO Time elapsed for Exchange.order: 830.103 ms
+2026-10-15 21:48:17,230 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793075079}}]}}}
+2026-10-15 21:48:17,231 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793075078}}]}}}
+2026-10-15 21:48:18,003 INFO Time elapsed for API.post: 763.772 ms
+2026-10-15 21:48:18,003 INFO Time elapsed for Exchange.order: 770.809 ms
+2026-10-15 21:48:18,003 INFO Time elapsed for API.post: 762.344 ms
+2026-10-15 21:48:18,004 INFO Time elapsed for Exchange.order: 772.869 ms
+2026-10-15 21:48:18,004 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793076221}}]}}}
+2026-10-15 21:48:18,004 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793076220}}]}}}
+2026-10-15 21:48:18,814 INFO Time elapsed for API.post: 804.735 ms
+2026-10-15 21:48:18,815 INFO Time elapsed for Exchange.order: 810.366 ms
+2026-10-15 21:48:18,815 INFO Time elapsed for API.post: 799.919 ms
+2026-10-15 21:48:18,815 INFO Time elapsed for Exchange.order: 811.302 ms
+2026-10-15 21:48:18,815 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793077686}}]}}}
+2026-10-15 21:48:18,816 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793077685}}]}}}
+2026-10-15 21:48:19,585 INFO Time elapsed for API.post: 759.273 ms
+2026-10-15 21:48:19,586 INFO Time elapsed for Exchange.order: 770.386 ms
+2026-10-15 21:48:19,586 INFO Time elapsed for API.post: 762.813 ms
+2026-10-15 21:48:19,586 INFO Time elapsed for Exchange.order: 769.898 ms
+2026-10-15 21:48:19,586 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793079028}}]}}}
+2026-10-15 21:48:19,586 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793079029}}]}}}
+2026-10-15 21:48:20,373 INFO Time elapsed for API.post: 778.220 ms
+2026-10-15 21:48:20,373 INFO Time elapsed for Exchange.order: 786.458 ms
+2026-10-15 21:48:20,373 INFO Time elapsed for API.post: 776.187 ms
+2026-10-15 21:48:20,374 INFO Time elapsed for Exchange.order: 787.153 ms
+2026-10-15 21:48:20,374 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793079878}}]}}}
+2026-10-15 21:48:20,375 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793079877}}]}}}
+2026-10-15 21:48:21,186 INFO Time elapsed for API.post: 804.671 ms
+2026-10-15 21:48:21,187 INFO Time elapsed for Exchange.order: 813.372 ms
+2026-10-15 21:48:21,187 INFO Time elapsed for API.post: 802.776 ms
+2026-10-15 21:48:21,188 INFO Time elapsed for Exchange.order: 812.868 ms
+2026-10-15 21:48:21,188 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793080821}}]}}}
+2026-10-15 21:48:21,188 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793080820}}]}}}
+2026-10-15 21:48:21,946 INFO Time elapsed for API.post: 750.180 ms
+2026-10-15 21:48:21,947 INFO Time elapsed for Exchange.order: 759.015 ms
+2026-10-15 21:48:21,947 INFO Time elapsed for API.post: 748.236 ms
+2026-10-15 21:48:21,947 INFO Time elapsed for Exchange.order: 758.339 ms
+2026-10-15 21:48:21,947 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793081547}}]}}}
+2026-10-15 21:48:21,948 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793081548}}]}}}
+2026-10-15 21:48:22,722 INFO Time elapsed for API.post: 766.262 ms
+2026-10-15 21:48:22,723 INFO Time elapsed for Exchange.order: 775.092 ms
+2026-10-15 21:48:22,723 INFO Time elapsed for API.post: 764.287 ms
+2026-10-15 21:48:22,723 INFO Time elapsed for Exchange.order: 774.639 ms
+2026-10-15 21:48:22,723 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793082716}}]}}}
+2026-10-15 21:48:22,724 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793082717}}]}}}
+2026-10-15 21:48:23,495 INFO Time elapsed for API.post: 763.888 ms
+2026-10-15 21:48:23,496 INFO Time elapsed for Exchange.order: 772.760 ms
+2026-10-15 21:48:23,496 INFO Time elapsed for API.post: 761.433 ms
+2026-10-15 21:48:23,496 INFO Time elapsed for Exchange.order: 771.975 ms
+2026-10-15 21:48:23,497 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793083641}}]}}}
+2026-10-15 21:48:23,498 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793083642}}]}}}
+2026-10-15 21:48:24,259 INFO Time elapsed for API.post: 750.060 ms
+2026-10-15 21:48:24,260 INFO Time elapsed for Exchange.order: 761.799 ms
+2026-10-15 21:48:24,260 INFO Time elapsed for API.post: 756.628 ms
+2026-10-15 21:48:24,260 INFO Time elapsed for Exchange.order: 763.130 ms
+2026-10-15 21:48:24,260 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793084932}}]}}}
+2026-10-15 21:48:24,260 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793084931}}]}}}
+2026-10-15 21:48:25,071 INFO Time elapsed for API.post: 802.173 ms
+2026-10-15 21:48:25,071 INFO Time elapsed for Exchange.order: 810.991 ms
+2026-10-15 21:48:25,071 INFO Time elapsed for API.post: 800.471 ms
+2026-10-15 21:48:25,072 INFO Time elapsed for Exchange.order: 810.670 ms
+2026-10-15 21:48:25,072 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793085750}}]}}}
+2026-10-15 21:48:25,073 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793085751}}]}}}
+2026-10-15 21:48:25,852 INFO Time elapsed for API.post: 769.255 ms
+2026-10-15 21:48:25,853 INFO Time elapsed for Exchange.order: 780.104 ms
+2026-10-15 21:48:25,853 INFO Time elapsed for API.post: 775.251 ms
+2026-10-15 21:48:25,853 INFO Time elapsed for Exchange.order: 781.401 ms
+2026-10-15 21:48:25,854 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793086526}}]}}}
+2026-10-15 21:48:25,854 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793086525}}]}}}
+2026-10-15 21:48:26,624 INFO Time elapsed for API.post: 759.651 ms
+2026-10-15 21:48:26,625 INFO Time elapsed for Exchange.order: 771.059 ms
+2026-10-15 21:48:26,625 INFO Time elapsed for API.post: 765.902 ms
+2026-10-15 21:48:26,626 INFO Time elapsed for Exchange.order: 771.727 ms
+2026-10-15 21:48:26,626 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793087308}}]}}}
+2026-10-15 21:48:26,626 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793087309}}]}}}
+2026-10-15 21:48:27,403 INFO Time elapsed for API.post: 766.252 ms
+2026-10-15 21:48:27,404 INFO Time elapsed for Exchange.order: 777.281 ms
+2026-10-15 21:48:27,404 INFO Time elapsed for API.post: 772.140 ms
+2026-10-15 21:48:27,404 INFO Time elapsed for Exchange.order: 778.289 ms
+2026-10-15 21:48:27,404 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793088124}}]}}}
+2026-10-15 21:48:27,405 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793088123}}]}}}
+2026-10-15 21:48:28,266 INFO Time elapsed for API.post: 852.697 ms
+2026-10-15 21:48:28,266 INFO Time elapsed for Exchange.order: 861.719 ms
+2026-10-15 21:48:28,266 INFO Time elapsed for API.post: 850.434 ms
+2026-10-15 21:48:28,267 INFO Time elapsed for Exchange.order: 861.253 ms
+2026-10-15 21:48:28,267 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793089105}}]}}}
+2026-10-15 21:48:28,267 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793089104}}]}}}
+2026-10-15 21:48:29,029 INFO Time elapsed for API.post: 754.143 ms
+2026-10-15 21:48:29,030 INFO Time elapsed for Exchange.order: 762.602 ms
+2026-10-15 21:48:29,030 INFO Time elapsed for API.post: 752.395 ms
+2026-10-15 21:48:29,030 INFO Time elapsed for Exchange.order: 762.609 ms
+2026-10-15 21:48:29,030 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793090025}}]}}}
+2026-10-15 21:48:29,031 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793090024}}]}}}
+2026-10-15 21:48:29,792 INFO Time elapsed for API.post: 752.449 ms
+2026-10-15 21:48:29,792 INFO Time elapsed for Exchange.order: 761.281 ms
+2026-10-15 21:48:29,792 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793090819}}]}}}
+2026-10-15 21:48:29,894 INFO Time elapsed for API.post: 852.248 ms
+2026-10-15 21:48:29,895 INFO Time elapsed for Exchange.order: 862.924 ms
+2026-10-15 21:48:29,895 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793090852}}]}}}
+2026-10-15 21:48:30,620 INFO Time elapsed for API.post: 821.965 ms
+2026-10-15 21:48:30,620 INFO Time elapsed for Exchange.order: 828.130 ms
+2026-10-15 21:48:30,621 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793092205}}]}}}
+2026-10-15 21:48:30,666 INFO Time elapsed for API.post: 764.274 ms
+2026-10-15 21:48:30,666 INFO Time elapsed for Exchange.order: 770.784 ms
+2026-10-15 21:48:30,666 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793092341}}]}}}
+2026-10-15 21:48:31,492 INFO Time elapsed for API.post: 864.579 ms
+2026-10-15 21:48:31,492 INFO Time elapsed for Exchange.order: 871.423 ms
+2026-10-15 21:48:31,493 INFO Time elapsed for API.post: 820.777 ms
+2026-10-15 21:48:31,493 INFO Time elapsed for Exchange.order: 827.140 ms
+2026-10-15 21:48:31,493 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793093383}}]}}}
+2026-10-15 21:48:31,494 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793093451}}]}}}
+2026-10-15 21:48:32,315 INFO Time elapsed for API.post: 816.453 ms
+2026-10-15 21:48:32,316 INFO Time elapsed for Exchange.order: 822.612 ms
+2026-10-15 21:48:32,316 INFO Time elapsed for API.post: 811.331 ms
+2026-10-15 21:48:32,316 INFO Time elapsed for Exchange.order: 821.995 ms
+2026-10-15 21:48:32,317 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793095157}}]}}}
+2026-10-15 21:48:32,317 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793095158}}]}}}
+2026-10-15 21:48:33,128 INFO Time elapsed for API.post: 800.370 ms
+2026-10-15 21:48:33,129 INFO Time elapsed for Exchange.order: 811.965 ms
+2026-10-15 21:48:33,129 INFO Time elapsed for API.post: 803.781 ms
+2026-10-15 21:48:33,130 INFO Time elapsed for Exchange.order: 812.681 ms
+2026-10-15 21:48:33,130 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793096556}}]}}}
+2026-10-15 21:48:33,130 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793096555}}]}}}
+2026-10-15 21:48:33,893 INFO Time elapsed for API.post: 755.027 ms
+2026-10-15 21:48:33,894 INFO Time elapsed for Exchange.order: 763.864 ms
+2026-10-15 21:48:33,894 INFO Time elapsed for API.post: 753.024 ms
+2026-10-15 21:48:33,894 INFO Time elapsed for Exchange.order: 763.124 ms
+2026-10-15 21:48:33,894 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793098075}}]}}}
+2026-10-15 21:48:33,895 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793098076}}]}}}
+2026-10-15 21:48:34,671 INFO Time elapsed for API.post: 770.350 ms
+2026-10-15 21:48:34,672 INFO Time elapsed for Exchange.order: 777.171 ms
+2026-10-15 21:48:34,672 INFO Time elapsed for API.post: 765.698 ms
+2026-10-15 21:48:34,672 INFO Time elapsed for Exchange.order: 776.723 ms
+2026-10-15 21:48:34,672 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793099169}}]}}}
+2026-10-15 21:48:34,673 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793099170}}]}}}
+2026-10-15 21:48:35,441 INFO Time elapsed for API.post: 762.864 ms
+2026-10-15 21:48:35,441 INFO Time elapsed for Exchange.order: 768.944 ms
+2026-10-15 21:48:35,442 INFO Time elapsed for API.post: 758.022 ms
+2026-10-15 21:48:35,442 INFO Time elapsed for Exchange.order: 768.552 ms
+2026-10-15 21:48:35,442 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793099687}}]}}}
+2026-10-15 21:48:35,443 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793099688}}]}}}
+2026-10-15 21:48:36,208 INFO Time elapsed for API.post: 758.276 ms
+2026-10-15 21:48:36,209 INFO Time elapsed for Exchange.order: 766.394 ms
+2026-10-15 21:48:36,209 INFO Time elapsed for API.post: 755.985 ms
+2026-10-15 21:48:36,209 INFO Time elapsed for Exchange.order: 766.000 ms
+2026-10-15 21:48:36,209 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793101355}}]}}}
+2026-10-15 21:48:36,209 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793101354}}]}}}
+2026-10-15 21:49:22,522 INFO Time elapsed for API.post: 401.348 ms
+2026-10-15 21:49:22,680 INFO Time elapsed for API.post: 157.115 ms
+2026-10-15 21:49:23,490 INFO Time elapsed for API.post: 799.262 ms
+2026-10-15 21:49:23,491 INFO Time elapsed for Exchange.order: 805.349 ms
+2026-10-15 21:49:23,491 INFO Time elapsed for API.post: 794.673 ms
+2026-10-15 21:49:23,492 INFO Time elapsed for Exchange.order: 806.395 ms
+2026-10-15 21:49:23,492 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793165779}}]}}}
+2026-10-15 21:49:23,493 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793165780}}]}}}
+2026-10-15 21:49:24,231 INFO Time elapsed for API.post: 729.040 ms
+2026-10-15 21:49:24,232 INFO Time elapsed for Exchange.order: 740.320 ms
+2026-10-15 21:49:24,232 INFO Time elapsed for API.post: 732.222 ms
+2026-10-15 21:49:24,233 INFO Time elapsed for Exchange.order: 739.850 ms
+2026-10-15 21:49:24,233 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793166773}}]}}}
+2026-10-15 21:49:24,234 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793166772}}]}}}
+2026-10-15 21:49:24,996 INFO Time elapsed for API.post: 753.511 ms
+2026-10-15 21:49:24,997 INFO Time elapsed for Exchange.order: 762.883 ms
+2026-10-15 21:49:24,997 INFO Time elapsed for API.post: 757.930 ms
+2026-10-15 21:49:24,997 INFO Time elapsed for Exchange.order: 764.380 ms
+2026-10-15 21:49:24,998 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793168057}}]}}}
+2026-10-15 21:49:24,998 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793168056}}]}}}
+2026-10-15 21:49:25,820 INFO Time elapsed for API.post: 810.147 ms
+2026-10-15 21:49:25,820 INFO Time elapsed for Exchange.order: 821.980 ms
+2026-10-15 21:49:25,820 INFO Time elapsed for API.post: 813.933 ms
+2026-10-15 21:49:25,821 INFO Time elapsed for Exchange.order: 822.246 ms
+2026-10-15 21:49:25,821 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793169243}}]}}}
+2026-10-15 21:49:25,822 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793169242}}]}}}
+2026-10-15 21:49:26,636 INFO Time elapsed for API.post: 804.291 ms
+2026-10-15 21:49:26,637 INFO Time elapsed for Exchange.order: 815.106 ms
+2026-10-15 21:49:26,637 INFO Time elapsed for API.post: 807.478 ms
+2026-10-15 21:49:26,637 INFO Time elapsed for Exchange.order: 816.409 ms
+2026-10-15 21:49:26,637 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793170479}}]}}}
+2026-10-15 21:49:26,638 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793170480}}]}}}
+2026-10-15 21:49:27,456 INFO Time elapsed for API.post: 812.603 ms
+2026-10-15 21:49:27,457 INFO Time elapsed for Exchange.order: 819.270 ms
+2026-10-15 21:49:27,457 INFO Time elapsed for API.post: 807.893 ms
+2026-10-15 21:49:27,457 INFO Time elapsed for Exchange.order: 818.599 ms
+2026-10-15 21:49:27,457 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793171101}}]}}}
+2026-10-15 21:49:27,458 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793171102}}]}}}
+2026-10-15 21:49:28,227 INFO Time elapsed for API.post: 758.573 ms
+2026-10-15 21:49:28,228 INFO Time elapsed for Exchange.order: 769.313 ms
+2026-10-15 21:49:28,228 INFO Time elapsed for API.post: 764.556 ms
+2026-10-15 21:49:28,228 INFO Time elapsed for Exchange.order: 770.319 ms
+2026-10-15 21:49:28,228 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793172180}}]}}}
+2026-10-15 21:49:28,228 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793172179}}]}}}
+2026-10-15 21:49:28,987 INFO Time elapsed for API.post: 752.612 ms
+2026-10-15 21:49:28,987 INFO Time elapsed for Exchange.order: 759.121 ms
+2026-10-15 21:49:28,987 INFO Time elapsed for API.post: 747.959 ms
+2026-10-15 21:49:28,988 INFO Time elapsed for Exchange.order: 758.574 ms
+2026-10-15 21:49:28,988 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793173097}}]}}}
+2026-10-15 21:49:28,988 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793173098}}]}}}
+2026-10-15 21:49:29,758 INFO Time elapsed for API.post: 759.287 ms
+2026-10-15 21:49:29,759 INFO Time elapsed for Exchange.order: 770.066 ms
+2026-10-15 21:49:29,759 INFO Time elapsed for API.post: 764.807 ms
+2026-10-15 21:49:29,759 INFO Time elapsed for Exchange.order: 771.163 ms
+2026-10-15 21:49:29,760 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793174163}}]}}}
+2026-10-15 21:49:29,760 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793174164}}]}}}
+2026-10-15 21:49:30,524 INFO Time elapsed for API.post: 753.424 ms
+2026-10-15 21:49:30,524 INFO Time elapsed for Exchange.order: 764.248 ms
+2026-10-15 21:49:30,524 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793175334}}]}}}
+2026-10-15 21:49:30,528 INFO Time elapsed for API.post: 760.317 ms
+2026-10-15 21:49:30,528 INFO Time elapsed for Exchange.order: 767.717 ms
+2026-10-15 21:49:30,531 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793175335}}]}}}
+2026-10-15 21:49:31,355 INFO Time elapsed for API.post: 817.862 ms
+2026-10-15 21:49:31,355 INFO Time elapsed for Exchange.order: 824.090 ms
+2026-10-15 21:49:31,355 INFO Time elapsed for API.post: 824.970 ms
+2026-10-15 21:49:31,356 INFO Time elapsed for Exchange.order: 831.189 ms
+2026-10-15 21:49:31,356 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793176026}}]}}}
+2026-10-15 21:49:31,356 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793176027}}]}}}
+2026-10-15 21:49:32,169 INFO Time elapsed for API.post: 807.483 ms
+2026-10-15 21:49:32,170 INFO Time elapsed for Exchange.order: 813.659 ms
+2026-10-15 21:49:32,170 INFO Time elapsed for API.post: 802.679 ms
+2026-10-15 21:49:32,170 INFO Time elapsed for Exchange.order: 813.331 ms
+2026-10-15 21:49:32,170 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793176865}}]}}}
+2026-10-15 21:49:32,171 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793176866}}]}}}
+2026-10-15 21:49:32,939 INFO Time elapsed for API.post: 759.839 ms
+2026-10-15 21:49:32,939 INFO Time elapsed for Exchange.order: 768.470 ms
+2026-10-15 21:49:32,939 INFO Time elapsed for API.post: 763.904 ms
+2026-10-15 21:49:32,940 INFO Time elapsed for Exchange.order: 769.274 ms
+2026-10-15 21:49:32,940 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793178448}}]}}}
+2026-10-15 21:49:32,940 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793178449}}]}}}
+2026-10-15 21:49:33,700 INFO Time elapsed for API.post: 752.533 ms
+2026-10-15 21:49:33,700 INFO Time elapsed for Exchange.order: 759.796 ms
+2026-10-15 21:49:33,701 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793179473}}]}}}
+2026-10-15 21:49:33,747 INFO Time elapsed for API.post: 797.104 ms
+2026-10-15 21:49:33,747 INFO Time elapsed for Exchange.order: 807.432 ms
+2026-10-15 21:49:33,748 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793179491}}]}}}
+2026-10-15 21:49:34,522 INFO Time elapsed for API.post: 815.715 ms
+2026-10-15 21:49:34,522 INFO Time elapsed for Exchange.order: 821.043 ms
+2026-10-15 21:49:34,522 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793180435}}]}}}
+2026-10-15 21:49:34,575 INFO Time elapsed for API.post: 821.509 ms
+2026-10-15 21:49:34,575 INFO Time elapsed for Exchange.order: 827.731 ms
+2026-10-15 21:49:34,576 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793180699}}]}}}
+2026-10-15 21:49:35,300 INFO Time elapsed for API.post: 772.206 ms
+2026-10-15 21:49:35,300 INFO Time elapsed for Exchange.order: 777.922 ms
+2026-10-15 21:49:35,301 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793181386}}]}}}
+2026-10-15 21:49:35,394 INFO Time elapsed for API.post: 812.048 ms
+2026-10-15 21:49:35,394 INFO Time elapsed for Exchange.order: 818.180 ms
+2026-10-15 21:49:35,394 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793181553}}]}}}
+2026-10-15 21:49:36,105 INFO Time elapsed for API.post: 798.201 ms
+2026-10-15 21:49:36,105 INFO Time elapsed for Exchange.order: 804.432 ms
+2026-10-15 21:49:36,105 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793182268}}]}}}
+2026-10-15 21:49:36,160 INFO Time elapsed for API.post: 759.937 ms
+2026-10-15 21:49:36,160 INFO Time elapsed for Exchange.order: 765.460 ms
+2026-10-15 21:49:36,160 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793182412}}]}}}
+2026-10-15 21:49:36,937 INFO Time elapsed for API.post: 771.051 ms
+2026-10-15 21:49:36,938 INFO Time elapsed for Exchange.order: 777.552 ms
+2026-10-15 21:49:36,938 INFO Time elapsed for API.post: 827.041 ms
+2026-10-15 21:49:36,938 INFO Time elapsed for Exchange.order: 832.622 ms
+2026-10-15 21:49:36,938 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793183629}}]}}}
+2026-10-15 21:49:36,939 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793183628}}]}}}
+2026-10-15 21:49:37,697 INFO Time elapsed for API.post: 752.649 ms
+2026-10-15 21:49:37,698 INFO Time elapsed for Exchange.order: 759.264 ms
+2026-10-15 21:49:37,698 INFO Time elapsed for API.post: 748.288 ms
+2026-10-15 21:49:37,701 INFO Time elapsed for Exchange.order: 761.992 ms
+2026-10-15 21:49:37,701 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793184317}}]}}}
+2026-10-15 21:49:37,702 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793184318}}]}}}
+2026-10-15 21:49:38,468 INFO Time elapsed for API.post: 759.635 ms
+2026-10-15 21:49:38,469 INFO Time elapsed for Exchange.order: 767.349 ms
+2026-10-15 21:49:38,469 INFO Time elapsed for API.post: 756.119 ms
+2026-10-15 21:49:38,470 INFO Time elapsed for Exchange.order: 763.467 ms
+2026-10-15 21:49:38,470 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793185514}}]}}}
+2026-10-15 21:49:38,470 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793185515}}]}}}
+2026-10-15 21:49:39,244 INFO Time elapsed for API.post: 762.760 ms
+2026-10-15 21:49:39,244 INFO Time elapsed for Exchange.order: 774.574 ms
+2026-10-15 21:49:39,244 INFO Time elapsed for API.post: 765.997 ms
+2026-10-15 21:49:39,245 INFO Time elapsed for Exchange.order: 773.884 ms
+2026-10-15 21:49:39,245 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793186602}}]}}}
+2026-10-15 21:49:39,245 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793186601}}]}}}
+2026-10-15 21:49:39,996 INFO Time elapsed for API.post: 743.611 ms
+2026-10-15 21:49:39,997 INFO Time elapsed for Exchange.order: 751.081 ms
+2026-10-15 21:49:39,997 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793187632}}]}}}
+2026-10-15 21:49:40,055 INFO Time elapsed for API.post: 799.700 ms
+2026-10-15 21:49:40,055 INFO Time elapsed for Exchange.order: 809.766 ms
+2026-10-15 21:49:40,055 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793187878}}]}}}
+2026-10-15 21:49:40,766 INFO Time elapsed for API.post: 762.140 ms
+2026-10-15 21:49:40,766 INFO Time elapsed for Exchange.order: 768.806 ms
+2026-10-15 21:49:40,766 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793188662}}]}}}
+2026-10-15 21:49:40,813 INFO Time elapsed for API.post: 754.828 ms
+2026-10-15 21:49:40,813 INFO Time elapsed for Exchange.order: 757.981 ms
+2026-10-15 21:49:40,813 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793188722}}]}}}
+2026-10-15 21:49:41,535 INFO Time elapsed for API.post: 762.423 ms
+2026-10-15 21:49:41,535 INFO Time elapsed for Exchange.order: 768.519 ms
+2026-10-15 21:49:41,535 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793189800}}]}}}
+2026-10-15 21:49:41,583 INFO Time elapsed for API.post: 762.817 ms
+2026-10-15 21:49:41,583 INFO Time elapsed for Exchange.order: 769.249 ms
+2026-10-15 21:49:41,583 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793189902}}]}}}
+2026-10-15 21:49:42,374 INFO Time elapsed for API.post: 833.005 ms
+2026-10-15 21:49:42,375 INFO Time elapsed for Exchange.order: 839.349 ms
+2026-10-15 21:49:42,375 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793190759}}]}}}
+2026-10-15 21:49:42,403 INFO Time elapsed for API.post: 813.127 ms
+2026-10-15 21:49:42,403 INFO Time elapsed for Exchange.order: 819.389 ms
+2026-10-15 21:49:42,403 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793190882}}]}}}
+2026-10-15 21:52:12,526 INFO Time elapsed for API.post: 449.349 ms
+2026-10-15 21:52:12,618 INFO Time elapsed for API.post: 88.333 ms
+2026-10-15 21:52:13,450 INFO Time elapsed for API.post: 813.391 ms
+2026-10-15 21:52:13,451 INFO Time elapsed for Exchange.order: 825.796 ms
+2026-10-15 21:52:13,451 INFO Time elapsed for API.post: 810.469 ms
+2026-10-15 21:52:13,452 INFO Time elapsed for Exchange.order: 829.865 ms
+2026-10-15 21:52:13,452 INFO Time elapsed for API.post: 822.217 ms
+2026-10-15 21:52:13,452 INFO Time elapsed for Exchange.order: 827.638 ms
+2026-10-15 21:52:13,452 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793399935}}]}}}
+2026-10-15 21:52:13,452 INFO Time elapsed for API.post: 818.303 ms
+2026-10-15 21:52:13,453 INFO Time elapsed for Exchange.order: 827.502 ms
+2026-10-15 21:52:13,453 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793399933}}]}}}
+2026-10-15 21:52:13,454 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793399936}}]}}}
+2026-10-15 21:52:13,454 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793399934}}]}}}
+2026-10-15 21:52:14,317 INFO Time elapsed for API.post: 851.755 ms
+2026-10-15 21:52:14,318 INFO Time elapsed for Exchange.order: 864.337 ms
+2026-10-15 21:52:14,318 INFO Time elapsed for API.post: 843.651 ms
+2026-10-15 21:52:14,318 INFO Time elapsed for Exchange.order: 861.355 ms
+2026-10-15 21:52:14,318 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793401457}}]}}}
+2026-10-15 21:52:14,318 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793401458}}]}}}
+2026-10-15 21:52:14,317 INFO Time elapsed for API.post: 855.282 ms
+2026-10-15 21:52:14,318 INFO Time elapsed for API.post: 848.492 ms
+2026-10-15 21:52:14,319 INFO Time elapsed for Exchange.order: 865.235 ms
+2026-10-15 21:52:14,319 INFO Time elapsed for Exchange.order: 866.712 ms
+2026-10-15 21:52:14,320 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793401456}}]}}}
+2026-10-15 21:52:14,322 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793401459}}]}}}
+2026-10-15 21:52:15,089 INFO Time elapsed for API.post: 759.439 ms
+2026-10-15 21:52:15,090 INFO Time elapsed for Exchange.order: 771.455 ms
+2026-10-15 21:52:15,090 INFO Time elapsed for API.post: 762.726 ms
+2026-10-15 21:52:15,091 INFO Time elapsed for Exchange.order: 771.762 ms
+2026-10-15 21:52:15,091 INFO Time elapsed for API.post: 751.764 ms
+2026-10-15 21:52:15,091 INFO Time elapsed for Exchange.order: 761.082 ms
+2026-10-15 21:52:15,090 INFO Time elapsed for API.post: 753.070 ms
+2026-10-15 21:52:15,091 INFO Time elapsed for Exchange.order: 768.839 ms
+2026-10-15 21:52:15,091 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793402756}}]}}}
+2026-10-15 21:52:15,092 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793402755}}]}}}
+2026-10-15 21:52:15,092 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793402757}}]}}}
+2026-10-15 21:52:15,092 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793402758}}]}}}
+2026-10-15 21:52:15,863 INFO Time elapsed for API.post: 764.751 ms
+2026-10-15 21:52:15,863 INFO Time elapsed for Exchange.order: 772.019 ms
+2026-10-15 21:52:15,864 INFO Time elapsed for API.post: 751.657 ms
+2026-10-15 21:52:15,864 INFO Time elapsed for Exchange.order: 771.708 ms
+2026-10-15 21:52:15,863 INFO Time elapsed for API.post: 760.123 ms
+2026-10-15 21:52:15,865 INFO Time elapsed for Exchange.order: 772.514 ms
+2026-10-15 21:52:15,865 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793404053}}]}}}
+2026-10-15 21:52:15,865 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793404055}}]}}}
+2026-10-15 21:52:15,864 INFO Time elapsed for API.post: 756.253 ms
+2026-10-15 21:52:15,866 INFO Time elapsed for Exchange.order: 773.246 ms
+2026-10-15 21:52:15,866 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793404054}}]}}}
+2026-10-15 21:52:15,866 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793404056}}]}}}
+2026-10-15 21:52:16,669 INFO Time elapsed for API.post: 783.192 ms
+2026-10-15 21:52:16,670 INFO Time elapsed for Exchange.order: 803.864 ms
+2026-10-15 21:52:16,671 INFO Time elapsed for API.post: 786.654 ms
+2026-10-15 21:52:16,671 INFO Time elapsed for Exchange.order: 804.454 ms
+2026-10-15 21:52:16,670 INFO Time elapsed for API.post: 790.541 ms
+2026-10-15 21:52:16,671 INFO Time elapsed for Exchange.order: 805.703 ms
+2026-10-15 21:52:16,671 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793405233}}]}}}
+2026-10-15 21:52:16,671 INFO Time elapsed for API.post: 799.278 ms
+2026-10-15 21:52:16,672 INFO Time elapsed for Exchange.order: 807.596 ms
+2026-10-15 21:52:16,673 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793405234}}]}}}
+2026-10-15 21:52:16,673 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793405232}}]}}}
+2026-10-15 21:52:16,673 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793405231}}]}}}
+2026-10-15 21:52:17,489 INFO Time elapsed for API.post: 810.910 ms
+2026-10-15 21:52:17,491 INFO Time elapsed for Exchange.order: 819.443 ms
+2026-10-15 21:52:17,491 INFO Time elapsed for API.post: 806.463 ms
+2026-10-15 21:52:17,491 INFO Time elapsed for Exchange.order: 818.116 ms
+2026-10-15 21:52:17,490 INFO Time elapsed for API.post: 796.591 ms
+2026-10-15 21:52:17,492 INFO Time elapsed for Exchange.order: 818.698 ms
+2026-10-15 21:52:17,491 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793405762}}]}}}
+2026-10-15 21:52:17,492 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793405761}}]}}}
+2026-10-15 21:52:17,491 INFO Time elapsed for API.post: 802.181 ms
+2026-10-15 21:52:17,493 INFO Time elapsed for Exchange.order: 819.130 ms
+2026-10-15 21:52:17,493 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793405763}}]}}}
+2026-10-15 21:52:17,496 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793405764}}]}}}
+2026-10-15 21:52:18,264 INFO Time elapsed for API.post: 751.142 ms
+2026-10-15 21:52:18,264 INFO Time elapsed for Exchange.order: 771.019 ms
+2026-10-15 21:52:18,265 INFO Time elapsed for API.post: 756.358 ms
+2026-10-15 21:52:18,265 INFO Time elapsed for Exchange.order: 768.964 ms
+2026-10-15 21:52:18,264 INFO Time elapsed for API.post: 765.265 ms
+2026-10-15 21:52:18,265 INFO Time elapsed for Exchange.order: 773.446 ms
+2026-10-15 21:52:18,265 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793406602}}]}}}
+2026-10-15 21:52:18,265 INFO Time elapsed for API.post: 761.217 ms
+2026-10-15 21:52:18,266 INFO Time elapsed for Exchange.order: 773.285 ms
+2026-10-15 21:52:18,266 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793406605}}]}}}
+2026-10-15 21:52:18,266 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793406603}}]}}}
+2026-10-15 21:52:18,267 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793406604}}]}}}
+2026-10-15 21:52:19,038 INFO Time elapsed for API.post: 750.748 ms
+2026-10-15 21:52:19,039 INFO Time elapsed for Exchange.order: 772.349 ms
+2026-10-15 21:52:19,039 INFO Time elapsed for API.post: 761.387 ms
+2026-10-15 21:52:19,038 INFO Time elapsed for API.post: 756.161 ms
+2026-10-15 21:52:19,040 INFO Time elapsed for Exchange.order: 772.813 ms
+2026-10-15 21:52:19,040 INFO Time elapsed for Exchange.order: 772.994 ms
+2026-10-15 21:52:19,040 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793407393}}]}}}
+2026-10-15 21:52:19,039 INFO Time elapsed for API.post: 764.816 ms
+2026-10-15 21:52:19,040 INFO Time elapsed for Exchange.order: 775.051 ms
+2026-10-15 21:52:19,041 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793407392}}]}}}
+2026-10-15 21:52:19,041 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793407391}}]}}}
+2026-10-15 21:52:19,041 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793407390}}]}}}
+2026-10-15 21:52:19,811 INFO Time elapsed for API.post: 748.747 ms
+2026-10-15 21:52:19,811 INFO Time elapsed for Exchange.order: 769.450 ms
+2026-10-15 21:52:19,812 INFO Time elapsed for API.post: 759.275 ms
+2026-10-15 21:52:19,812 INFO Time elapsed for Exchange.order: 771.313 ms
+2026-10-15 21:52:19,812 INFO Time elapsed for API.post: 755.118 ms
+2026-10-15 21:52:19,813 INFO Time elapsed for Exchange.order: 770.955 ms
+2026-10-15 21:52:19,812 INFO Time elapsed for API.post: 765.280 ms
+2026-10-15 21:52:19,813 INFO Time elapsed for Exchange.order: 772.498 ms
+2026-10-15 21:52:19,812 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793408546}}]}}}
+2026-10-15 21:52:19,813 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793408544}}]}}}
+2026-10-15 21:52:19,814 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793408547}}]}}}
+2026-10-15 21:52:19,814 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793408545}}]}}}
+2026-10-15 21:52:20,578 INFO Time elapsed for API.post: 744.101 ms
+2026-10-15 21:52:20,579 INFO Time elapsed for Exchange.order: 765.262 ms
+2026-10-15 21:52:20,579 INFO Time elapsed for API.post: 754.178 ms
+2026-10-15 21:52:20,580 INFO Time elapsed for Exchange.order: 765.763 ms
+2026-10-15 21:52:20,579 INFO Time elapsed for API.post: 759.234 ms
+2026-10-15 21:52:20,580 INFO Time elapsed for Exchange.order: 766.803 ms
+2026-10-15 21:52:20,580 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793409821}}]}}}
+2026-10-15 21:52:20,579 INFO Time elapsed for API.post: 750.112 ms
+2026-10-15 21:52:20,580 INFO Time elapsed for Exchange.order: 766.072 ms
+2026-10-15 21:52:20,580 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793409820}}]}}}
+2026-10-15 21:52:20,581 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793409819}}]}}}
+2026-10-15 21:52:20,581 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793409818}}]}}}
+2026-10-15 21:52:21,354 INFO Time elapsed for API.post: 752.958 ms
+2026-10-15 21:52:21,354 INFO Time elapsed for Exchange.order: 772.028 ms
+2026-10-15 21:52:21,354 INFO Time elapsed for API.post: 767.842 ms
+2026-10-15 21:52:21,355 INFO Time elapsed for Exchange.order: 775.450 ms
+2026-10-15 21:52:21,355 INFO Time elapsed for API.post: 763.072 ms
+2026-10-15 21:52:21,356 INFO Time elapsed for Exchange.order: 774.817 ms
+2026-10-15 21:52:21,355 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793411214}}]}}}
+2026-10-15 21:52:21,355 INFO Time elapsed for API.post: 758.386 ms
+2026-10-15 21:52:21,357 INFO Time elapsed for Exchange.order: 775.397 ms
+2026-10-15 21:52:21,357 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793411215}}]}}}
+2026-10-15 21:52:21,357 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793411213}}]}}}
+2026-10-15 21:52:21,360 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793411216}}]}}}
+2026-10-15 21:52:22,161 INFO Time elapsed for API.post: 790.118 ms
+2026-10-15 21:52:22,162 INFO Time elapsed for Exchange.order: 802.102 ms
+2026-10-15 21:52:22,162 INFO Time elapsed for API.post: 787.796 ms
+2026-10-15 21:52:22,162 INFO Time elapsed for API.post: 797.042 ms
+2026-10-15 21:52:22,163 INFO Time elapsed for Exchange.order: 807.218 ms
+2026-10-15 21:52:22,163 INFO Time elapsed for Exchange.order: 800.519 ms
+2026-10-15 21:52:22,163 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793412040}}]}}}
+2026-10-15 21:52:22,163 INFO Time elapsed for API.post: 795.686 ms
+2026-10-15 21:52:22,164 INFO Time elapsed for Exchange.order: 806.888 ms
+2026-10-15 21:52:22,164 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793412042}}]}}}
+2026-10-15 21:52:22,165 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793412041}}]}}}
+2026-10-15 21:52:22,165 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793412039}}]}}}
+2026-10-15 21:52:22,928 INFO Time elapsed for API.post: 756.406 ms
+2026-10-15 21:52:22,929 INFO Time elapsed for Exchange.order: 765.668 ms
+2026-10-15 21:52:22,929 INFO Time elapsed for API.post: 754.866 ms
+2026-10-15 21:52:22,929 INFO Time elapsed for Exchange.order: 764.411 ms
+2026-10-15 21:52:22,930 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793412647}}]}}}
+2026-10-15 21:52:22,930 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793412648}}]}}}
+2026-10-15 21:53:06,503 INFO Time elapsed for API.post: 397.297 ms
+2026-10-15 21:53:06,595 INFO Time elapsed for API.post: 90.427 ms
+2026-10-15 21:53:07,383 INFO Time elapsed for API.post: 777.941 ms
+2026-10-15 21:53:07,384 INFO Time elapsed for Exchange.order: 784.182 ms
+2026-10-15 21:53:07,384 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793468757}}]}}}
+2026-10-15 21:53:08,206 INFO Time elapsed for API.post: 813.272 ms
+2026-10-15 21:53:08,206 INFO Time elapsed for Exchange.order: 822.253 ms
+2026-10-15 21:53:08,207 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793470311}}]}}}
+2026-10-15 21:53:09,023 INFO Time elapsed for API.post: 807.702 ms
+2026-10-15 21:53:09,023 INFO Time elapsed for Exchange.order: 816.454 ms
+2026-10-15 21:53:09,024 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793471494}}]}}}
+2026-10-15 21:53:09,846 INFO Time elapsed for API.post: 813.086 ms
+2026-10-15 21:53:09,846 INFO Time elapsed for Exchange.order: 822.058 ms
+2026-10-15 21:53:09,846 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793472578}}]}}}
+2026-10-15 21:53:10,621 INFO Time elapsed for API.post: 765.782 ms
+2026-10-15 21:53:10,621 INFO Time elapsed for Exchange.order: 774.559 ms
+2026-10-15 21:53:10,621 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793473883}}]}}}
+2026-10-15 21:53:11,385 INFO Time elapsed for API.post: 756.331 ms
+2026-10-15 21:53:11,385 INFO Time elapsed for Exchange.order: 763.761 ms
+2026-10-15 21:53:11,385 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793476013}}]}}}
+2026-10-15 21:53:12,163 INFO Time elapsed for API.post: 768.556 ms
+2026-10-15 21:53:12,163 INFO Time elapsed for Exchange.order: 777.314 ms
+2026-10-15 21:53:12,163 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793476977}}]}}}
+2026-10-15 21:53:12,928 INFO Time elapsed for API.post: 756.938 ms
+2026-10-15 21:53:12,929 INFO Time elapsed for Exchange.order: 765.381 ms
+2026-10-15 21:53:12,929 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793477967}}]}}}
+2026-10-15 21:53:13,694 INFO Time elapsed for API.post: 756.907 ms
+2026-10-15 21:53:13,695 INFO Time elapsed for Exchange.order: 765.370 ms
+2026-10-15 21:53:13,695 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793478846}}]}}}
+2026-10-15 21:53:14,459 INFO Time elapsed for API.post: 758.596 ms
+2026-10-15 21:53:14,459 INFO Time elapsed for Exchange.order: 763.992 ms
+2026-10-15 21:53:14,459 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793479908}}]}}}
+2026-10-15 21:53:15,261 INFO Time elapsed for API.post: 796.354 ms
+2026-10-15 21:53:15,261 INFO Time elapsed for Exchange.order: 801.943 ms
+2026-10-15 21:53:15,262 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793481334}}]}}}
+2026-10-15 21:53:16,046 INFO Time elapsed for API.post: 777.155 ms
+2026-10-15 21:53:16,047 INFO Time elapsed for Exchange.order: 784.684 ms
+2026-10-15 21:53:16,047 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793482573}}]}}}
+2026-10-15 21:53:16,909 INFO Time elapsed for API.post: 855.045 ms
+2026-10-15 21:53:16,909 INFO Time elapsed for Exchange.order: 862.389 ms
+2026-10-15 21:53:16,910 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793483807}}]}}}
+2026-10-15 21:53:17,682 INFO Time elapsed for API.post: 766.194 ms
+2026-10-15 21:53:17,682 INFO Time elapsed for Exchange.order: 772.355 ms
+2026-10-15 21:53:17,683 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793484885}}]}}}
+2026-10-15 21:53:18,446 INFO Time elapsed for API.post: 757.553 ms
+2026-10-15 21:53:18,447 INFO Time elapsed for Exchange.order: 763.847 ms
+2026-10-15 21:53:18,447 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793485723}}]}}}
+2026-10-15 21:53:19,212 INFO Time elapsed for API.post: 758.704 ms
+2026-10-15 21:53:19,212 INFO Time elapsed for Exchange.order: 764.871 ms
+2026-10-15 21:53:19,212 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793486565}}]}}}
+2026-10-15 21:53:19,980 INFO Time elapsed for API.post: 759.332 ms
+2026-10-15 21:53:19,980 INFO Time elapsed for Exchange.order: 767.742 ms
+2026-10-15 21:53:19,980 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793487733}}]}}}
+2026-10-15 21:53:20,748 INFO Time elapsed for API.post: 758.936 ms
+2026-10-15 21:53:20,748 INFO Time elapsed for Exchange.order: 767.785 ms
+2026-10-15 21:53:20,749 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793488649}}]}}}
+2026-10-15 21:53:21,517 INFO Time elapsed for API.post: 759.144 ms
+2026-10-15 21:53:21,517 INFO Time elapsed for Exchange.order: 767.867 ms
+2026-10-15 21:53:21,517 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793489897}}]}}}
+2026-10-15 21:53:22,344 INFO Time elapsed for API.post: 817.754 ms
+2026-10-15 21:53:22,344 INFO Time elapsed for Exchange.order: 826.619 ms
+2026-10-15 21:53:22,344 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793490576}}]}}}
+2026-10-15 21:53:23,161 INFO Time elapsed for API.post: 808.495 ms
+2026-10-15 21:53:23,162 INFO Time elapsed for Exchange.order: 817.183 ms
+2026-10-15 21:53:23,162 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793491354}}]}}}
+2026-10-15 21:53:23,923 INFO Time elapsed for API.post: 752.571 ms
+2026-10-15 21:53:23,923 INFO Time elapsed for Exchange.order: 761.272 ms
+2026-10-15 21:53:23,924 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793492424}}]}}}
+2026-10-15 21:53:24,689 INFO Time elapsed for API.post: 759.098 ms
+2026-10-15 21:53:24,689 INFO Time elapsed for Exchange.order: 765.560 ms
+2026-10-15 21:53:24,690 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793493310}}]}}}
+2026-10-15 21:53:25,453 INFO Time elapsed for API.post: 754.714 ms
+2026-10-15 21:53:25,453 INFO Time elapsed for Exchange.order: 762.905 ms
+2026-10-15 21:53:25,453 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793494278}}]}}}
+2026-10-15 21:53:26,224 INFO Time elapsed for API.post: 763.937 ms
+2026-10-15 21:53:26,225 INFO Time elapsed for Exchange.order: 771.350 ms
+2026-10-15 21:53:26,225 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793495679}}]}}}
+2026-10-15 21:53:26,985 INFO Time elapsed for API.post: 752.791 ms
+2026-10-15 21:53:26,986 INFO Time elapsed for Exchange.order: 760.314 ms
+2026-10-15 21:53:26,986 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793496756}}]}}}
+2026-10-15 21:53:27,750 INFO Time elapsed for API.post: 755.169 ms
+2026-10-15 21:53:27,750 INFO Time elapsed for Exchange.order: 764.192 ms
+2026-10-15 21:53:27,751 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793497241}}]}}}
+2026-10-15 21:53:28,524 INFO Time elapsed for API.post: 767.570 ms
+2026-10-15 21:53:28,525 INFO Time elapsed for Exchange.order: 773.672 ms
+2026-10-15 21:53:28,525 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793497758}}]}}}
+2026-10-15 21:53:29,288 INFO Time elapsed for API.post: 758.361 ms
+2026-10-15 21:53:29,288 INFO Time elapsed for Exchange.order: 763.463 ms
+2026-10-15 21:53:29,289 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793498545}}]}}}
+2026-10-15 21:53:30,059 INFO Time elapsed for API.post: 761.189 ms
+2026-10-15 21:53:30,059 INFO Time elapsed for Exchange.order: 770.252 ms
+2026-10-15 21:53:30,059 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793499531}}]}}}
+2026-10-15 21:53:30,935 INFO Time elapsed for API.post: 872.238 ms
+2026-10-15 21:53:30,935 INFO Time elapsed for Exchange.order: 875.541 ms
+2026-10-15 21:53:30,935 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793500449}}]}}}
+2026-10-15 21:53:31,710 INFO Time elapsed for API.post: 768.593 ms
+2026-10-15 21:53:31,710 INFO Time elapsed for Exchange.order: 774.493 ms
+2026-10-15 21:53:31,710 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793502524}}]}}}
+2026-10-15 21:53:32,479 INFO Time elapsed for API.post: 762.893 ms
+2026-10-15 21:53:32,479 INFO Time elapsed for Exchange.order: 769.019 ms
+2026-10-15 21:53:32,480 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793503306}}]}}}
+2026-10-15 21:53:33,251 INFO Time elapsed for API.post: 766.396 ms
+2026-10-15 21:53:33,251 INFO Time elapsed for Exchange.order: 771.512 ms
+2026-10-15 21:53:33,251 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793504868}}]}}}
+2026-10-15 21:53:34,009 INFO Time elapsed for API.post: 752.633 ms
+2026-10-15 21:53:34,009 INFO Time elapsed for Exchange.order: 757.744 ms
+2026-10-15 21:53:34,010 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793506033}}]}}}
+2026-10-15 21:53:34,782 INFO Time elapsed for API.post: 765.625 ms
+2026-10-15 21:53:34,782 INFO Time elapsed for Exchange.order: 772.354 ms
+2026-10-15 21:53:34,782 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793507310}}]}}}
+2026-10-15 21:53:35,599 INFO Time elapsed for API.post: 809.547 ms
+2026-10-15 21:53:35,599 INFO Time elapsed for Exchange.order: 816.345 ms
+2026-10-15 21:53:35,599 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793508123}}]}}}
+2026-10-15 21:53:36,371 INFO Time elapsed for API.post: 764.057 ms
+2026-10-15 21:53:36,371 INFO Time elapsed for Exchange.order: 771.629 ms
+2026-10-15 21:53:36,371 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793509524}}]}}}
+2026-10-15 21:53:37,240 INFO Time elapsed for API.post: 861.687 ms
+2026-10-15 21:53:37,240 INFO Time elapsed for Exchange.order: 868.522 ms
+2026-10-15 21:53:37,240 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793511715}}]}}}
+2026-10-15 21:53:38,034 INFO Time elapsed for API.post: 788.107 ms
+2026-10-15 21:53:38,035 INFO Time elapsed for Exchange.order: 795.022 ms
+2026-10-15 21:53:38,036 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793512427}}]}}}
+2026-10-15 21:53:39,093 INFO Time elapsed for API.post: 1051.592 ms
+2026-10-15 21:53:39,093 INFO Time elapsed for Exchange.order: 1057.301 ms
+2026-10-15 21:53:39,094 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793513713}}]}}}
+2026-10-15 21:53:39,861 INFO Time elapsed for API.post: 761.226 ms
+2026-10-15 21:53:39,861 INFO Time elapsed for Exchange.order: 767.328 ms
+2026-10-15 21:53:39,861 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793514980}}]}}}
+2026-10-15 21:53:40,632 INFO Time elapsed for API.post: 764.444 ms
+2026-10-15 21:53:40,632 INFO Time elapsed for Exchange.order: 770.592 ms
+2026-10-15 21:53:40,632 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793515995}}]}}}
+2026-10-15 21:53:41,399 INFO Time elapsed for API.post: 759.593 ms
+2026-10-15 21:53:41,399 INFO Time elapsed for Exchange.order: 766.368 ms
+2026-10-15 21:53:41,399 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793517517}}]}}}
+2026-10-15 21:53:42,196 INFO Time elapsed for API.post: 791.668 ms
+2026-10-15 21:53:42,196 INFO Time elapsed for Exchange.order: 797.032 ms
+2026-10-15 21:53:42,197 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793518534}}]}}}
+2026-10-15 21:53:42,940 INFO Time elapsed for API.post: 737.785 ms
+2026-10-15 21:53:42,940 INFO Time elapsed for Exchange.order: 743.243 ms
+2026-10-15 21:53:42,940 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793519596}}]}}}
+2026-10-15 21:53:43,713 INFO Time elapsed for API.post: 767.411 ms
+2026-10-15 21:53:43,713 INFO Time elapsed for Exchange.order: 772.930 ms
+2026-10-15 21:53:43,714 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793520350}}]}}}
+2026-10-15 21:53:44,484 INFO Time elapsed for API.post: 764.695 ms
+2026-10-15 21:53:44,484 INFO Time elapsed for Exchange.order: 770.470 ms
+2026-10-15 21:53:44,485 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793521155}}]}}}
+2026-10-15 21:53:45,299 INFO Time elapsed for API.post: 809.094 ms
+2026-10-15 21:53:45,299 INFO Time elapsed for Exchange.order: 814.646 ms
+2026-10-15 21:53:45,300 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793522554}}]}}}
+2026-10-15 21:53:46,023 INFO Time elapsed for API.post: 718.442 ms
+2026-10-15 21:53:46,024 INFO Time elapsed for Exchange.order: 723.884 ms
+2026-10-15 21:53:46,024 INFO Order result for ETH: {'status': 'ok', 'response': {'type': 'order', 'data': {'statuses': [{'resting': {'oid': 62793523559}}]}}}

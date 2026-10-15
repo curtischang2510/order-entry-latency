@@ -3,16 +3,17 @@ import logging
 import sys
 from pathlib import Path
 
-from hyperliquid.exchange import Exchange
 from hyperliquid.utils.signing import Account
 from hyperliquid.utils import constants
 
 from optimised_one.async_queue import AsyncOrderQueue, OrderJob
+from optimised_one.exchange import NonceExchange
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(PROJECT_ROOT))
 
 from config import Config  # noqa: E402
+from http_logging import log_exchange_response_headers  # noqa: E402
 
 LOG_FILE = Path(__file__).with_name("orders.log")
 NUM_TICKS = 100
@@ -27,7 +28,7 @@ async def main() -> None:
     
     config = Config.from_yaml(PROJECT_ROOT / "config.yaml")
     wallet = Account.from_key(config.private_key)
-    exchange = Exchange(
+    exchange = NonceExchange(
         wallet,
         base_url=constants.TESTNET_API_URL,
         account_address=config.account_address,

@@ -3,6 +3,8 @@ import logging
 
 from dataclasses import dataclass
 
+from decorator import get_latency
+
 logger = logging.getLogger(__name__)
 
 @dataclass
@@ -15,8 +17,9 @@ class OrderJob:
 class AsyncOrderQueue:
     def __init__(self, exchange):
         self.queue:asyncio.Queue[OrderJob] = asyncio.Queue()
-        self.num_workers = 2
+        self.num_workers = 1
         self.exchange = exchange
+        self.timed_order = get_latency(exchange.order)
         self.worker_task = [
             asyncio.create_task(self._worker(), name=f'order-worker-{i}')
             for i in range(self.num_workers)
@@ -30,7 +33,7 @@ class AsyncOrderQueue:
             job = await self.queue.get()
             try:
                 response = await asyncio.to_thread(
-                    self.exchange.order,
+                    self.timed_order,
                     job.coin,
                     True,
                     job.size,
