@@ -1,6 +1,7 @@
 import logging
 import sys
 from pathlib import Path
+import time
 
 from hyperliquid.exchange import Exchange
 from hyperliquid.utils.signing import Account
@@ -10,12 +11,21 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(PROJECT_ROOT))
 
 from config import Config  # noqa: E402
+from decorator import get_latency  # noqa: E402
 
 logger = logging.getLogger(__name__)
 LOG_FILE = Path(__file__).with_name("orders.log")
 
 NUM_TICKS = 100
 
+
+"""
+Order entry latency
+- Use the Hyperliquid Python SDK to insert an order to Hyperliquid Testnet
+- Trace the processing latency of your order at various relevant intermediate steps
+- Take measures to reduce this latency as much as possible
+- Show the progress you made in reducing latency as a result of the various changes you implemented
+"""
 
 def main() -> None:
     logging.basicConfig(
@@ -36,6 +46,7 @@ def main() -> None:
     for i in range(NUM_TICKS):
         # if planning engine returns true
         if i % 2 == 0:
+            start = time.perf_counter()
             result = exchange.order(
                 config.coin, 
                 True,
@@ -43,7 +54,9 @@ def main() -> None:
                 config.price,
                 {"limit": {"tif": "Gtc"}},
             )
+            elapsed_ms = (time.perf_counter() - start) * 1000
             logger.info("Order result at tick %d: %s", i, result)
+            logger.info("Order latency at tick %d: %s", i, elapsed_ms)
 
 
 if __name__ == "__main__":
